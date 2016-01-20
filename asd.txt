@@ -1,2 +1,6 @@
 asd 2
+<<<<<<< HEAD
 d
+=======
+c
+>>>>>>> 642abf5b89bbee8a852aaef5e5201a3ce2e240cc
